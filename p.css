@@ -1,0 +1,87 @@
+.manu-container{
+    height: 10px;
+    background-color: rgb(73, 72, 72);
+    color: white;
+    list-style: none;
+    padding: 28PX; 
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.logo-photo{
+    
+    width: 80px;
+    height: 30px;
+}
+.manus{
+    display: flex;
+   
+}
+.item{
+    margin-right: 20px;
+padding-right: 08px;
+    font-size: 18px;
+   
+}
+.item:hover{
+    color: brown;
+}
+.container{
+    display: flex ;
+    justify-content: space-around;
+color: white;
+    height: 100vh;
+    align-items: center; background-image: url("/logo/black-1072366_1280.jpg"); background-repeat: no-repeat; 
+    background-size: cover;
+}
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+.b3{
+     background-color: red;
+      color: white; 
+     padding: 10px 20px; 
+     border-radius: 10px;
+     border: none;
+}
+.b4{
+  font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.image{
+ background-size: cover;
+    
+} 
+.box{
+    width: 230px;
+    height: 250px;
+   box-shadow: 4px 4px 15px gray; 
+   background-color: black;
+   color: white; 
+   text-align: center; 
+ 
+}
+.v5{
+    text-align: center;
+}
+
+.b7{
+    background-color: red;
+     color: white; 
+    padding: 10px 20px; 
+    border-radius: 10px;
+    border: none; 
+    text-align: center;
+}
+
+.t6{
+    display: flex; 
+justify-content: space-around;
+}
